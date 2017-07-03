@@ -6,8 +6,8 @@
 
 > 步骤2：apply plugin: 'android-apt'
 
-> 步骤3：compile 'com.jakewharton:butterknife:8.5.1'
-// 引入插件
+> 步骤3：// 引入插件
+- compile 'com.jakewharton:butterknife:8.5.1'
 - apt 'com.jakewharton:butterknife-compiler:8.5.1'
 
 
