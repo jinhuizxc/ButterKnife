@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ButterKnife.iml" filepath="$PROJECT_DIR$/ButterKnife.iml" />
+      <module fileurl="file://C:\Users\jinhu\Desktop\ButterKnife\ButterKnife.iml" filepath="C:\Users\jinhu\Desktop\ButterKnife\ButterKnife.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\jinhu\Desktop\ButterKnife\app\app.iml" filepath="C:\Users\jinhu\Desktop\ButterKnife\app\app.iml" />
     </modules>
   </component>
 </project>
