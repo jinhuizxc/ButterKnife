@@ -1,6 +1,6 @@
 # ButterKnife
 
-- 官方 https://github.com/JakeWharton/butterknife
+- 官方地址 https://github.com/JakeWharton/butterknife
 
 本demo测试ButterKnife的各种操作。
 > 步骤1：
